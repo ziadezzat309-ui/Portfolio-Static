@@ -1,33 +1,40 @@
-📝 Project Description
-WebX is a modern, responsive static website created for our Internet Computing course. This project focuses on demonstrating professional web deployment and cloud hosting.
+# WebX Team Portfolio
 
-🚀 Key Features
-Modern Design: Sleek Dark Mode UI with glassmorphism effects.
+This is the static website for the Internet Computing project.
 
-Bilingual Support: Smooth switching between Arabic and English.
+## Team
 
-Responsive: Fully optimized for all screen sizes and devices.
+* **Ziad Ezzat** — Team Lead / Graphic Designer
+* **Omar Awny** — Back-End Developer
+* **Mohammed Dargham** — UI/UX Designer
+* **Mahmoud Atef** — AI Specialist
 
-💻 Technologies Used
-Frontend: HTML5, CSS3, and Vanilla JavaScript.
+## Description
 
-Hosting: Deployed via GitHub Pages and Firebase.
+A bilingual Arabic/English team portfolio website presenting WebX team members, roles, skills, and project idea.
 
-👥 Team Members
-Ziad Ezzat - Team Lead & Graphic Designer
+## Technologies Used
 
-Omar Awny - Back-End Developer
+* HTML5
+* CSS3
+* JavaScript
+* Responsive Design
 
-Mohammed Dargham - UI/UX Designer
+## Local Setup
 
-Mahmoud Atef - AI Specialist
+Open this file in your browser:
 
-🔗 Deployment Links
-GitHub Pages: [Insert your link here]
+`index.html`
 
-Firebase Hosting: [Coming Soon]
-⚙️ How to Run
-To run this project locally, simply clone the repository and open index.html:
+Or use VS Code Live Server.
 
-Bash
-git clone https://github.com/ziadezzat309-ui/Portfolio-Static.git
+## Deployment
+
+This static website is prepared for:
+
+* GitHub Pages
+* Firebase Hosting
+
+## Screenshots
+
+Deployment screenshots should be saved in the `screenshots` folder.
