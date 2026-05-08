@@ -19,6 +19,7 @@ A bilingual Arabic/English team portfolio website presenting WebX team members, 
 * CSS3
 * JavaScript
 * Responsive Design
+* **Firebase Hosting** (Cloud Deployment)
 
 ## Local Setup
 
@@ -30,11 +31,13 @@ Or use VS Code Live Server.
 
 ## Deployment
 
-This static website is prepared for:
+This website is successfully deployed and live at:
+👉 **[https://static-webx-project.web.app](https://static-webx-project.web.app)**
 
-* GitHub Pages
-* Firebase Hosting
+The deployment was managed using:
+* **Firebase CLI**
+* **Google Cloud Console**
 
 ## Screenshots
 
-Deployment screenshots should be saved in the `screenshots` folder.
+Deployment screenshots (Init complete and Deploy success) are saved in the `screenshots` folder.
