@@ -4,7 +4,7 @@ This is the static website for the Internet Computing project.
 
 ## Team
 
-* **Ziad Ezzat** — Team Lead / Graphic Designer
+* **Ziad Ezzat** — Team Lead / Front-end developer
 * **Omar Awny** — Back-End Developer
 * **Mohammed Dargham** — UI/UX Designer
 * **Mahmoud Atef** — AI Specialist
