@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WebX | Innovative Solutions</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+
+    <div class="bg-glow"></div>
+
+    <nav class="navbar">
+        <div class="nav-container">
+            <div class="logo">
+                <div class="logo-icon">W</div>
+                <span>Web<span class="gradient-text">X</span></span>
+            </div>
+            <ul class="nav-links">
+                <li><a href="#about" data-en="About" data-ar="عن المشروع">About</a></li>
+                <li><a href="#members" data-en="Members" data-ar="الفريق">Members</a></li>
+                <li><a href="#skills" data-en="Stack" data-ar="تقنياتنا">Stack</a></li>
+                <li><button id="lang-switch" class="btn-glass">العربية</button></li>
+            </ul>
+        </div>
+    </nav>
+
+    <header class="hero" id="about">
+        <div class="hero-box">
+            <span class="badge" data-en="Development Squad" data-ar="فريق التطوير">Development Squad</span>
+            <h1 data-en="Building Digital Future" data-ar="نبني المستقبل الرقمي">Building Digital <br><span class="gradient-text">Future</span></h1>
+            <p data-en="We combine design, logic, and AI to deliver high-performance web applications and seamless cloud hosting." 
+               data-ar="نجمع بين التصميم والمنطق والذكاء الاصطناعي لتقديم تطبيقات ويب عالية الأداء واستضافة سحابية سلسة.">
+               We combine design, logic, and AI to deliver high-performance web applications and seamless cloud hosting.
+            </p>
+            <div class="hero-btns">
+                <a href="#members" class="btn-primary" data-en="Our Team" data-ar="فريقنا">Our Team</a>
+                <a href="#skills" class="btn-secondary" data-en="Project Stack" data-ar="تقنياتنا">Project Stack</a>
+            </div>
+        </div>
+    </header>
+
+    <main class="container">
+        <section id="members" class="section-spacing">
+            <h2 class="section-label" data-en="01. Team Structure" data-ar="٠١. هيكل الفريق">01. Team Structure</h2>
+            <div class="modern-grid">
+                <!-- Ziad Ezzat -->
+                <div class="m-card">
+                    <i class="fa-solid fa-code icon"></i>
+                    <h3>Ziad Ezzat</h3>
+                    <span class="m-role" data-en="Team Lead / Front-End Developer" data-ar="قائد الفريق / مطور واجهات">Team Lead / Front-End Developer</span>
+                </div>
+
+                <!-- Omar Awny -->
+                <div class="m-card">
+                    <i class="fa-solid fa-database icon"></i>
+                    <h3>Omar Awny</h3>
+                    <span class="m-role" data-en="Back-End Developer" data-ar="مطور واجهات خلفية">Back-End Developer</span>
+                </div>
+
+                <!-- Mohammed Dargham -->
+                <div class="m-card">
+                    <i class="fa-solid fa-bezier-curve icon"></i>
+                    <h3>Mohammed Dargham</h3>
+                    <span class="m-role" data-en="UI/UX Designer" data-ar="مصمم واجهات ومستخدم">UI/UX Designer</span>
+                </div>
+
+                <!-- Mahmoud Atef -->
+                <div class="m-card">
+                    <i class="fa-solid fa-brain icon"></i>
+                    <h3>Mahmoud Atef</h3>
+                    <span class="m-role" data-en="AI Specialist" data-ar="أخصائي ذكاء اصطناعي">AI Specialist</span>
+                </div>
+            </div>
+        </section>
+
+        <section id="skills" class="section-spacing">
+            <h2 class="section-label" data-en="02. Core Stack" data-ar="٠٢. التقنيات الأساسية">02. Core Stack</h2>
+            <div class="pills-container">
+                <div class="pill">HTML5</div>
+                <div class="pill">CSS3</div>
+                <div class="pill">JavaScript</div>
+                <div class="pill">Firebase</div>
+                <div class="pill">GitHub Pages</div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>WebX © 2026 | Cloud Hosting Project</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
